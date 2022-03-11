@@ -6,7 +6,7 @@
 ______________________________________________________________________
 
 
-> Basically this program healps you to drink water properly, do eye excersice for healthy eyes and some light physical excersice during your work.
+> Basically this program healps you to drink water properly, do eye exercise for healthy eyes and some light physical exercise during your work.
 >
 >
 > This program take time log for every activity and manage text file for every activity.
