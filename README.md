@@ -2,7 +2,7 @@
 --------------------
 
 
-## This python program healps programmers to stay healty life style
+## This python program healps programmers to live healty life style
 ______________________________________________________________________
 
 
